@@ -12,7 +12,7 @@ This project focuses on fine-tuning a pre-trained Convolutional Neural Network (
 # 1. Data Loading
 - Loaded images from the UTKFace directory.
 - Extracted age labels from filenames.
-* 2. Age Binning
+# 2. Age Binning
 - Mapped continuous ages into wider categorical bins (Child, Teenager, Adult, etc.).
 - Used a Python function for mapping.
 # 3. Data Preprocessing
